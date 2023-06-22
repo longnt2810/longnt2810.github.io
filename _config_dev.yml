@@ -1,1 +1,22 @@
-url: http://127.0.0.1:4000
+# Setup
+title:               Long Nguyen's Blog
+tagline:             ''
+description:         'Long Nguyen'
+url:                 https://longnt2810.github.io
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Long Nguyen
+  url:               https://longnt2810.github.io
+  email:             
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+# version:             1.1.0
+# google_analytics_id: G-DDKJNXNZF5
