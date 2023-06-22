@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: Hello World
 ---
 
 Hello World
