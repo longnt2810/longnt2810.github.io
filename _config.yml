@@ -2,7 +2,7 @@
 title:               Long Nguyen's Blog
 tagline:             ''
 description:         'Long Nguyen'
-url:                 https://longn.me
+url:                 http://127.0.0.1:4000
 baseurl:             ''
 paginate:            5
 permalink:           pretty
