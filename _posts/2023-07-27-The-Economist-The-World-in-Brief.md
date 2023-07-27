@@ -3,7 +3,7 @@ layout: post
 title: 27/07/2023 - The World in Brief
 ---
 
-Kinh tế Mỹ tăng trưởng 2.4% trong quý 2, cao hơn mức kỳ vọng của các nhà kinh tế là 1.8%. Mức tăng trưởng này được thúc đẩy bởi mức chi cho tiêu dùng mạnh mẽ và sự gia tăng trong đầu tư tư nhân. Khả năng phục hồi bất ngờ của nền kinh tế Mỹ là tin tốt cho các nhà hoạch định chính sách. Lạm phát cũng được kiềm chế, chỉ số giá tiêu dùng chỉ tăng 3% trong tháng 6, mức tăng thấp nhất trong 2 năm vừa qua. Chủ tịch ngân hàng trung ương Mỹ, ông Jerome Powell nói ngày thứ Tư rằng ông nghĩ Mỹ sẽ không rơi vào suy thoái trong năm nay.
+Kinh tế Mỹ tăng trưởng 2.4% trong quý 2, cao hơn mức kỳ vọng của các nhà kinh tế là 1.8%. Mức tăng trưởng này được thúc đẩy bởi mức chi cho tiêu dùng mạnh mẽ và sự gia tăng trong đầu tư tư nhân. Khả năng phục hồi bất ngờ của nền kinh tế Mỹ là tin tốt cho các nhà hoạch định chính sách. Lạm phát cũng được kiềm chế, chỉ số giá tiêu dùng chỉ tăng 3% trong tháng 6, mức tăng thấp nhất trong vòng 2 năm vừa qua. Chủ tịch ngân hàng trung ương Mỹ, ông Jerome Powell nói ngày thứ Tư rằng ông cho rằng Mỹ sẽ không rơi vào suy thoái trong năm nay.
 
 America’s economy grew by 2.4% at an annualised rate in the second quarter, beating economists’ expectations of 1.8%. The increase was spurred by strong consumer spending and a surge in private investment. The surprising resilience of America’s economy is good news for policymakers. Inflation is easing too: consumer prices rose by just 3% in June, the smallest increase in over two years. On Wednesday Jerome Powell, chair of America’s central bank, said that he no longer expects the country to fall into a recession this year.
 
