@@ -2,7 +2,7 @@
 title:               Long Nguyen's Blog
 tagline:             ''
 description:         'Long Nguyen'
-url:                 https://longnt2810.github.io
+url:                 https://longnt.me
 baseurl:             ''
 paginate:            5
 permalink:           pretty
@@ -10,7 +10,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              Long Nguyen
-  url:               https://longnt2810.github.io
+  url:               https://longnt.me
   email:             
 
 # Gems
